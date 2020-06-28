@@ -1,0 +1,4 @@
+- Create a jupyter notebook 
+- Crop face from imported image and display with matplot
+- Replace faces between two images
+- replace faces in video and generate output mp4 using opencv 
